@@ -26,7 +26,7 @@ windows编译，执行脚本 `build_windows.bat`
 - scripts/linux/install.sh：  agent安装脚本
 - scripts/linux/start.sh：   agent启动脚本
 - scripts/linux/stop.sh：   agent停止脚本
-- scripts/linux/uninstall.sh：   agent卸载脚本1
+- scripts/linux/uninstall.sh：   agent卸载脚本2
 
 
 
